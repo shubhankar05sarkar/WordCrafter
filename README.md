@@ -15,7 +15,7 @@ WordCrafter is a Flutter app that generates random English word pairs, lets you 
 
 ---
 
-## Screenshots
+## User Interface
 
 1. **Generator Page**
    ![Generator Page](https://github.com/shubhankar05sarkar/WordCrafter/blob/aab63167b1b460c430f01fdb8b98dbfc90be62f2/Generator%20Page.png)
