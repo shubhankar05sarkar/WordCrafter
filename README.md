@@ -1,5 +1,5 @@
 # WordCrafter
-
+ 
 WordCrafter is a Flutter app that generates random English word pairs, lets you favorite them, and view your favorites. It has a responsive UI for both mobile and desktop, and uses Provider for state management.
 
 ---
